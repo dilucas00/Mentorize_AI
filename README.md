@@ -1,4 +1,4 @@
-# Mentorize AI (ou o nome que você escolheu)
+# Mentorize AI 
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express)
