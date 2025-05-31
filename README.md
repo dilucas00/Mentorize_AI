@@ -120,15 +120,8 @@ curl -X POST http://localhost:8000/api/chat \
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
 ## 👨‍💻 Autor
 
-Feito com ❤️ por **[Seu Nome Aqui]**
+Feito por **Gabriel Di Lucas**
 
-- **LinkedIn:** `https://linkedin.com/in/seu-linkedin`
-- **GitHub:** `https://github.com/seu-github`
+
